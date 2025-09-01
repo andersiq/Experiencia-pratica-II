@@ -1,6 +1,7 @@
 # Entrega de Experiencia-pratica-II
 
-"Qual o perfil do Desenvolvedor(a) Web Júnior em 2025?
+Qual o perfil do Desenvolvedor(a) Web Júnior em 2025?
+
 Para responder a essa pergunta, analisei 10 vagas de TI e compilei os dados. 
 
 As principais oportunidades na área de TI no Brasil concentram-se em Desenvolvimento de Software (Back-end, Front-end, Full-stack) e Engenharia de Software, com destaque crescente para dados, machine learning, e gestão de produtos. Paralelamente, setores como cloud, segurança e infraestrutura mantêm sua relevância. O mercado continua forte e em transição digital, especialmente em grandes empresas e nas rápidas inovações de startups.
